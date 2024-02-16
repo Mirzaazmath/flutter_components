@@ -5,14 +5,23 @@ A new Flutter project.
 ## Getting Started
 
 # Screenshot 1
-<img src="https://github.com/Mirzaazmath/flutter_components/blob/drawer/assets/screenshot1.png" height="400">
+<img src="https://github.com/Mirzaazmath/flutter_components/blob/alertdialog/assets/screenshot1.png" height="400">
 
 # Screenshot 2
-<img src="https://github.com/Mirzaazmath/flutter_components/blob/drawer/assets/screenshot2.png" height="400">
+<img src="https://github.com/Mirzaazmath/flutter_components/blob/alertdialog/assets/screenshot2.png" height="400">
+
+
+# Screenshot 3
+<img src="https://github.com/Mirzaazmath/flutter_components/blob/alertdialog/assets/screenshot3.png" height="400">
+
+
+# Screenshot 4
+<img src="https://github.com/Mirzaazmath/flutter_components/blob/alertdialog/assets/screenshot4.png" height="400">
+
 
 
 # Result
-<img src="https://github.com/Mirzaazmath/flutter_components/blob/drawer/assets/result.gif" height="400">
+<img src="https://github.com/Mirzaazmath/flutter_components/blob/alertdialog/assets/result.gif" height="400">
 
 This project is a starting point for a Flutter application.
 
