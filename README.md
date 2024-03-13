@@ -5,13 +5,13 @@ A new Flutter project.
 ## Getting Started
 
 # Screenshot 1
-<img src="https://github.com/Mirzaazmath/flutter_components/blob/customPopup/assets/screenshot1.png" height="400">
+<img src="https://github.com/Mirzaazmath/flutter_components/blob/customTextFields/assets/output/Screenshot1.png" height="400">
 
 # Screenshot 2
-<img src="https://github.com/Mirzaazmath/flutter_components/blob/customPopup/assets/screenshot2.png" height="400">
+<img src="https://github.com/Mirzaazmath/flutter_components/blob/customTextFields/assets/output/Screenshot2.png" height="400">
 
 # Result
-<img src="https://github.com/Mirzaazmath/flutter_components/blob/customPopup/assets/result.gif" height="400">
+<img src="https://github.com/Mirzaazmath/flutter_components/blob/customTextFields/assets/output/result.gif" height="400">
 
 This project is a starting point for a Flutter application.
 
